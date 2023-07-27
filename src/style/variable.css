@@ -1,0 +1,14 @@
+#root{
+    
+    --primary-box-shadow :rgb(28 28 28 / 8%) 0px 2px 8px ;
+    --border-white:rgb(232, 232, 232);
+    --primary-bg:rgb(252, 252, 252);
+    --zomato-grey:#a2a2a2;
+    --zomato-red:#ff7e8b;
+    --gray:rgb(207,207,207);
+    --inactive-color:#f8f8ff; 
+    --inactive-text: #696969;
+    --filter-text:#9c9c9c;
+    --collection-shadow:rgb(0 0 0 / 8%)0px 3px 12px;
+    --heading-text:#1c1c1c;
+}
